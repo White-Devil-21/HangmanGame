@@ -1,0 +1,42 @@
+body{
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 200%;
+}
+aside{
+    float: right;
+    margin-right: 15%;
+}
+section{
+    float: left;
+    size: 70%;
+}
+#wordPanel{
+    margin-top: 50%;
+    float: left;
+    font-size: 200%;
+}
+
+#hangImg{
+    float: left;   
+    padding: 3%; 
+    max-width: 10%;
+    max-height: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+#VirtualKey{
+    float: left;
+    font-size: 150%;
+    margin-left: 10%;
+    width: 85%;
+    display: block;
+}
+
+.key{
+    font-size: 115%;
+    background-color: rgb(117, 117, 255);
+    padding: 15px;
+    margin: 0.8% ;
+}
